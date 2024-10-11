@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Quinn Kwiatkowski
 # UWYO COSC 1010
 # Submission Date: 10/15/2024
@@ -48,6 +47,3 @@ for name, average_grade in average_grade.items():
 #Alice
 #Charlie
 #NOTE: does not print bob because the average score is exactly 80, and the function only pulls the name if it is greater than 80.
-=======
-
->>>>>>> 4cdc96518204c33816d1bcb1343c9ef2bbd5e2fa
